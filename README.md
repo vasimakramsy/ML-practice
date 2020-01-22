@@ -7,4 +7,4 @@ and plotting the Cross-validation graph to check my Model consistency
 
 ML_prac2
 - here am using the same car data but separeting into training and testing 
-- am using ARDregressor and HuberRegressor tp train the model
+- am using ARDregressor and HuberRegressor tp train the model for prediction
